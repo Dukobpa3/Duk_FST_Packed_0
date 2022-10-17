@@ -8,7 +8,7 @@ Both can be installed at the same time.
 I like the simple style of the original Reskin XBOXSX Theme, so for now won't change it but who knows :)
 Focused on comfort gaming with GamePad and GFE.
 Also have couple hundreds games on different markets and installed just about 20% of them so wanted to see some additional game details to choose what install/play next.
-Also playing with 8-eight kid so important to see AgeRatings also.
+Also playing with 8-yo kid so important to see AgeRatings also.
 Also very lazy so if I don't have needed metadata or can't automate it - I will not add it to theme.
 
 Future plans
