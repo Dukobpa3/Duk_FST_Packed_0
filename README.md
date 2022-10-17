@@ -14,7 +14,8 @@ Feature Icons will be displayed automatically after installing [Library Manageme
 
 ## Video Trailers
 Video trailers provided by [Extra Metadata Loader](https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Extra-Metadata-Loader)
-I'm using streaming videos only so if you have any issues please report issues
+
+I'm using streaming videos only so if you have any issues please report
 
 ## Age Ratings icons
 Integrated direct to the theme
@@ -38,6 +39,7 @@ Supporting all licensing logos from all sources `ACB/CERO/ClassInd/ESRB/GRAC/PEG
 # Donates?
 Me personally don't need it
 You can support [Playnite](https://www.patreon.com/playnite)
+
 OR Ukrainian Army:
 - [Come Back Alive Foundation](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)
 - [Prytula Foundation](https://prytulafoundation.org/en/home/support_page)
