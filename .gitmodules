@@ -1,0 +1,4 @@
+[submodule "Source"]
+	path = Source
+	url = git@github.com:Dukobpa3/Playnite_FST_ReskinXBOXSX_Ext.git
+	branch = main
