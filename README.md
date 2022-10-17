@@ -4,6 +4,21 @@ First of all read the [original theme description](https://github.com/TheKersalM
 For now everything described there -- working also in this theme.
 Both can be installed at the same time.
 
+# The main Idea of theme
+I like the simple style of the original Reskin XBOXSX Theme, so for now won't change it but who knows :)
+Focused on comfort gaming with GamePad and GFE.
+Also have couple hundreds games on different markets and installed just about 20% of them so wanted to see some additional game details to choose what install/play next.
+Also playing with 8-eight kid so important to see AgeRatings also.
+Also very lazy so if I don't have needed metadata or can't automate it - I will not add it to theme.
+
+Future plans
+- couple more game details on the Details page
+- and maybe in the games list
+- waiting for inspiration :)
+
+For now very recommended to install LibraryManagement plugin + ExtraMetadataLoader plugin.
+(Because if not - so why do you need this theme? :) ) 
+
 ![Games List](https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_01.png)
 ![GameView 1](https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_02.png)
 ![Game View 2](https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_03.png)
