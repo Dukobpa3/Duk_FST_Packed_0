@@ -1,5 +1,12 @@
 AddonId: 'Duk_FST_4e173c94-69a2-48de-938b-6feb2b393bc9'
 Packages:
+  - Version: 0.3
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-19
+    PackageUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/releases/download/v.0.3/v_0_3.pthm
+    Changelog:
+      - Couple styles refactoring (cleaner background in the GameView, hardcoded values changed to styles)
+      - Added simple Achievements view
   - Version: 0.1
     RequiredApiVersion: 2.3.0
     ReleaseDate: 2022-10-17
@@ -10,9 +17,3 @@ Packages:
       - Added Features Icons to GameDetails view (Needed installed addon LibraryManagement)
       - Added Age Ratings icons to GameDetails view (Integrated directly to theme and don't need anything else)
       - Everything else works as in the base theme Reskin XBOXSX Theme
-  - Version: 0.3
-    ReleaseDate: 2022-10-19
-    PackageUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/releases/download/v.0.3/v_0_3.pthm
-    Changelog:
-      - Couple styles refactoring (cleaner background in the GameView, hardcoded values changed to styles)
-      - Added simple Achievements view
