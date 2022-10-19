@@ -1,8 +1,8 @@
 AddonId: 'Duk_FST_4e173c94-69a2-48de-938b-6feb2b393bc9'
 Packages:
-  - Version: 0.2
+  - Version: 0.3
     ReleaseDate: 2022-10-19
-    PackageUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/releases/download/v.0.2/v_0_2.pthm
+    PackageUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/releases/download/v.0.3/v_0_3.pthm
     Changelog:
       - Couple styles refactoring (cleaner background in the GameView, hardcoded values changed to styles)
       - Added simple Achievements view
