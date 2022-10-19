@@ -36,6 +36,11 @@ I'm using streaming videos only so if you have any issues please report
 Integrated direct to the theme
 Supporting all licensing logos from all sources `ACB/CERO/ClassInd/ESRB/GRAC/PEGI/USK`
 
+## Achievements
+Achievements support provided by [SuccessStory AddOn](https://github.com/Lacro59/playnite-successstory-plugin/wiki)
+`Progressbar` setting to best view:
+- hide label and hide percents
+
 # Important
 - I've made it and tested only on FullHD monitor, so don't know how it looks on others. Should be ok but who knows :) Report me with any issues.
 - You can use any background image dimension, but layout made for 1920/620 images
