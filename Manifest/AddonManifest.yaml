@@ -1,6 +1,7 @@
 AddonId: 'Duk_FST_4e173c94-69a2-48de-938b-6feb2b393bc9'
 Packages:
   - Version: 0.3
+    RequiredApiVersion: 2.3.0
     ReleaseDate: 2022-10-19
     PackageUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/releases/download/v.0.3/v_0_3.pthm
     Changelog:
