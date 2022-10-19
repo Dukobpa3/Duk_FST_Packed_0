@@ -23,6 +23,7 @@ For now very recommended to install LibraryManagement plugin + ExtraMetadataLoad
 ![GameView 1](https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_02.png)
 ![Game View 2](https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_03.png)
 ![Trailer expanded](https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_04.png)
+![Duplicate Hider](https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_05.png)
 
 ## Feature icons
 Feature Icons will be displayed automatically after installing [Library Management AddOn](https://github.com/Lacro59/playnite-librarymanagement-plugin) 
@@ -40,6 +41,9 @@ Supporting all licensing logos from all sources `ACB/CERO/ClassInd/ESRB/GRAC/PEG
 Achievements support provided by [SuccessStory AddOn](https://github.com/Lacro59/playnite-successstory-plugin/wiki)
 `Progressbar` setting to best view:
 - hide label and hide percents
+
+## Duplicate Hider
+Configure [Duplicate Hider Addon](https://github.com/felixkmh/DuplicateHider) and everything should works...
 
 # Important
 - I've made it and tested only on FullHD monitor, so don't know how it looks on others. Should be ok but who knows :) Report me with any issues.
