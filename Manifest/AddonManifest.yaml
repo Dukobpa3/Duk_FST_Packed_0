@@ -1,5 +1,12 @@
 AddonId: 'Duk_FST_4e173c94-69a2-48de-938b-6feb2b393bc9'
 Packages:
+  - Version: 0.7
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-22
+    PackageUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/releases/download/v.0.7/v_0_7.pthm
+    Changelog:
+      - Play with keyboard focus in corner cases
+      - Trailer Roulette. Try L1/R1 buttons inside GameDetails view with expanded video :)
   - Version: 0.6
     RequiredApiVersion: 2.3.0
     ReleaseDate: 2022-10-20
