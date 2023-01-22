@@ -1,5 +1,13 @@
 AddonId: 'Duk_FST_4e173c94-69a2-48de-938b-6feb2b393bc9'
 Packages:
+  - Version: 1.0
+    RequiredApiVersion: 2.4.0
+    ReleaseDate: 2022-10-22
+    PackageUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/releases/download/v.1.0/v_1_0.pthm
+    Changelog:
+      - HLTB Support
+      - Riot Games source icon
+      - Update to 2.4.0
   - Version: 0.8
     RequiredApiVersion: 2.3.0
     ReleaseDate: 2022-10-22
