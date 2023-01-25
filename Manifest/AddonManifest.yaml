@@ -1,5 +1,14 @@
 AddonId: 'Duk_FST_4e173c94-69a2-48de-938b-6feb2b393bc9'
 Packages:
+  - Version: 1.6
+    RequiredApiVersion: 2.4.0
+    ReleaseDate: 2023-01-26
+    PackageUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/releases/download/v.1.6/v_1_6.pthm
+    Changelog:
+      - Rework GameView layout
+      - Simplified previous ugly HLTB integration...
+      - Merged AgeRatings to one universal icon (Can be configured in the Library Management plugin)
+      - Moved Publishers/Developers/Release year info to bottom/right corner
   - Version: 1.5
     RequiredApiVersion: 2.4.0
     ReleaseDate: 2023-01-23
