@@ -1,5 +1,11 @@
 AddonId: 'Duk_FST_4e173c94-69a2-48de-938b-6feb2b393bc9'
 Packages:
+  - Version: 1.8
+    RequiredApiVersion: 2.4.0
+    ReleaseDate: 2023-01-29
+    PackageUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/releases/download/v.1.8/v_1_8.pthm
+    Changelog:
+      - Show simplified AgeRatings if enabled in the LibraryManagement plugin and full custom version if disabled
   - Version: 1.7
     RequiredApiVersion: 2.4.0
     ReleaseDate: 2023-01-26
