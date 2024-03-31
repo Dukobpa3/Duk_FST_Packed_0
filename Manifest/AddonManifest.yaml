@@ -1,5 +1,11 @@
 AddonId: 'Duk_FST_4e173c94-69a2-48de-938b-6feb2b393bc9'
 Packages:
+  - Version: 2.0.1
+    RequiredApiVersion: 2.5.0
+    ReleaseDate: 2024-03-01
+    PackageUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/releases/download/v.2.0.1/v_2_0_1.pthm
+    Changelog:
+      - Fix filters icons
   - Version: 2.0
     RequiredApiVersion: 2.5.0
     ReleaseDate: 2023-05-03
